@@ -8,7 +8,7 @@
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Kythonlk.Kythonlk)
-[![Github](https://img.shields.io/github/followers/Kythonlk?label=Follow&style=social)](https://github.com/Kythonlk)
+![Github](https://img.shields.io/github/followers/Kythonlk?label=Follow&style=social)](https://github.com/Kythonlk)
 
 <div size='20px'> Hi! My name is Kythonlk.I am a Software developer. I have already contributed to more than 50+ website development projects. I use HTML, JAVASCRIPT, PHP, CSS ,PYTHON ,Bootstrap-5 ,Django ,Wordpress ,WIX ,SHOPIFY ,React ,Firebase ,Flutter and Dart technologies to create websites. I create UI/UX design using FIGMA. I can design and develop any type of website, templates, web page, blog and Portfolio.
 I enjoy Turning complex problems into simple, elegant and intuitive designs.
