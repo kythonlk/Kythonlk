@@ -6,8 +6,7 @@
 <p align='center'>
 </p>
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Kythonlk.Kythonlk)
+![views](https://komarev.com/ghpvc/?username=kythonlk)
 [![Github](https://img.shields.io/github/followers/Kythonlk?label=Follow&style=social)](https://github.com/Kythonlk)
 
 <div size='20px'> Hi! My name is Kythonlk.I am a Software developer. I have already contributed to more than 50+ website development projects. I use HTML, JAVASCRIPT, PHP, CSS ,PYTHON ,Bootstrap-5 ,Django ,Wordpress ,WIX ,SHOPIFY ,React ,Firebase ,Flutter and Dart technologies to create websites. I create UI/UX design using FIGMA. I can design and develop any type of website, templates, web page, blog and Portfolio.
@@ -75,9 +74,9 @@ My job is to build your website so that it is functional and user-friendly but a
   <br>
   
 
-| ![Kythonlk's github stats](https://github-readme-stats.vercel.app/api?username=Kythonlk&show_icons=true&theme=tokyonight) | ![Kythonlk GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kythonlk&theme=tokyonight) |
+|[![kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kythonlk)](https://github.com/anuraghazra/github-readme-stats)| ![Kythonlk GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kythonlk&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kythonlk&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Kythonlk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk&layout=donut)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk)](https://github.com/anuraghazra/github-readme-stats) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
