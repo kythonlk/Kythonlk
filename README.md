@@ -9,7 +9,7 @@
 ![views](https://komarev.com/ghpvc/?username=kythonlk)
 [![Github](https://img.shields.io/github/followers/Kythonlk?label=Follow&style=social)](https://github.com/Kythonlk)
 
-<div size='20px'> Hi! My name is Kythonlk.I am a Full-Stack Web Developer. I have already contributed to more than 50+ website development projects. I use HTML, JAVASCRIPT, PHP, CSS ,Bootstrap-5 ,Wordpress , Laravel ,Vue technologies to create websites. I create UI/UX design using FIGMA. I can design and develop any type of website, templates, web page, blog and Portfolio.
+<div size='20px'> Hi! My name is Kythonlk.I am a Full-Stack Web Developer. I have already contributed to more than 100+ website development projects. I use HTML, JAVASCRIPT, PHP, CSS ,Bootstrap-5 ,Wordpress , Astro , React ,Nextjs , Laravel ,Vue technologies to create websites. I create UI/UX design using FIGMA. I can design and develop any type of website, templates, web page, blog and Portfolio.
 I enjoy Turning complex problems into simple, elegant and intuitive designs.</div></br>
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -20,7 +20,7 @@ My job is to build your website so that it is functional and user-friendly but a
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Dhabione ,UAE
+- 🔭 I’m currently working on  Extra Co ,UAE
   
 - 🌱 I’m currently learning ML ,Python , C# 
   
