@@ -1,8 +1,4 @@
-<p align="center">
-    <img width="200" src="http://kythonlk.com/assets/images/my-avatar.png">
-</p>
-
-<h1> Hello Fellow < Developers/ >! </h1>
+# Hello Fellow < Developers/ >!
 
 ![views](https://komarev.com/ghpvc/?username=kythonlk)
 [![Github](https://img.shields.io/github/followers/Kythonlk?label=Follow&style=social)](https://github.com/Kythonlk)
@@ -14,6 +10,61 @@ Thank You for taking the time to view my GitHub Profile :smile:
 
 ### My most project are Private because it belongs to some private companies</h2></br></br>
 
+## Tools and Skills
+
+### Development Tools
+
+![Linux](https://img.shields.io/badge/OS-Debian_(Linux)-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![NeoVim](https://img.shields.io/badge/Code_Editor-neovim-105ba2.svg?style=for-the-badge&logo=neovim&logoColor=green)
+![Notion](https://img.shields.io/badge/Project_Management-Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Insomnia](https://img.shields.io/badge/API_Testing-Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Designing-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+
+
+### Programming Languages
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+### Frameworks and CMS
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-blue?logo=astro&logoColor=fff&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/WordPress_(Plugin,Theme)-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### Markup Languges and Styling Tools 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcnui](https://img.shields.io/badge/-Shadcnui-%230170FE?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Database and Data Storage Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Devops Tools
+
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## About Me
 
@@ -29,57 +80,7 @@ Thank You for taking the time to view my GitHub Profile :smile:
   
 - ⚡ Fun fact: kythonlk é o melhor desenvolvedor de temas wordpress da região.
 
-## Tools and Skills
 
-### Development Tools
-
-![Linux](https://img.shields.io/badge/Debian(Linux)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NeoVim](https://img.shields.io/badge/neovim-105ba2.svg?style=for-the-badge&logo=neovim&logoColor=green)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-httpie
-
-
-### Programming Languges
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
-### Frameworks and CMS
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-### Markup Languges and Styling Tools 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcnui](https://img.shields.io/badge/-Shadcnui-%230170FE?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Database and Data Storage Tools
-
-### Devop Tools
-
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-rust
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -94,9 +95,9 @@ rust
   <br>
   
 
-|[![kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kythonlk)](https://github.com/anuraghazra/github-readme-stats)| ![Kythonlk GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kythonlk&theme=tokyonight) |
-| --- | --- |
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk&layout=donut)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk)](https://github.com/anuraghazra/github-readme-stats) |
+ [![kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kythonlk)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
@@ -107,4 +108,4 @@ rust
 -----
 Credits: [Kavindu Harshana](https://kythonlk.com)
 
-Last Edited on: 04/13/2023
+Last Edited on: 12/09/2023
