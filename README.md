@@ -97,7 +97,7 @@ Thank You for taking the time to view my GitHub Profile :smile:
 
  [![kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kythonlk)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk&langs_count=19)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
