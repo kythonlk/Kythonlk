@@ -14,12 +14,9 @@ Thank You for taking the time to view my GitHub Profile :smile:
 
 ### Development Tools
 
-![Linux](https://img.shields.io/badge/OS-Debian_(Linux)-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![NeoVim](https://img.shields.io/badge/Code_Editor-neovim-105ba2.svg?style=for-the-badge&logo=neovim&logoColor=green)
-![Notion](https://img.shields.io/badge/Project_Management-Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Insomnia](https://img.shields.io/badge/API_Testing-Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Designing-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+| os | ![Linux](https://img.shields.io/badge/Debian_(Linux)-A81D33?style=for-the-badge&logo=debian&logoColor=white) | Code Editor | ![NeoVim](https://img.shields.io/badge/neovim-105ba2.svg?style=for-the-badge&logo=neovim&logoColor=green) | Project Management | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+| --- | --- | --- | --- | --- | --- |
+| API testing | ![Httpie](https://img.shields.io/badge/Httpie-73dc8c?style=for-the-badge&logo=httpie&logoColor=white) Fastreq | Office | ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) | Designing | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)|
 
 
 ### Programming Languages
