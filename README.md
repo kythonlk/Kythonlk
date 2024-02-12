@@ -35,6 +35,7 @@ Thank You for taking the time to view my GitHub Profile :smile:
 
 ### Frameworks and CMS
 
+![HTMX](https://img.shields.io/badge/HTMX-3366CC.svg?style=for-the-badge&logo=htmx&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-blue?logo=astro&logoColor=fff&style=for-the-badge)
@@ -76,7 +77,7 @@ Thank You for taking the time to view my GitHub Profile :smile:
   
 - 👯 I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about Wordpress theme or plugin , JavaScript , React , React Native , Laravel
+- 💬 Ask me about Wordpress theme or plugin , htmx , JavaScript , React , React Native , Laravel
   
 - ⚡ Fun fact: kythonlk é o melhor desenvolvedor de temas wordpress da região.
 
@@ -99,7 +100,6 @@ Thank You for taking the time to view my GitHub Profile :smile:
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk&langs_count=19)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
 <br>
@@ -108,4 +108,4 @@ Thank You for taking the time to view my GitHub Profile :smile:
 -----
 Credits: [Kavindu Harshana](https://kythonlk.com)
 
-Last Edited on: 12/09/2023
+Last Edited on: 12/02/2024
