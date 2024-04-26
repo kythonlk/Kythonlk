@@ -91,13 +91,13 @@ I enjoy Turning complex problems into simple, elegant and intuitive designs.**
 <br>
 <br>
   
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk&langs_count=19)](https://github.com/anuraghazra/github-readme-stats)|
-| --- |
+<!--| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk&langs_count=19)](https://github.com/anuraghazra/github-readme-stats)|
+| --- |-->
 
 <br>
 
 
 -----
-Credits: [Kavindu Harshana](https://kythonlk.com)
+Credits: [Kavindu Harshana](https://kythonlk-1.netlify.app)
 
 Last Edited on: 12/02/2024
