@@ -91,8 +91,9 @@ I enjoy Turning complex problems into simple, elegant and intuitive designs.**
 <br>
 <br>
   
-<!--| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kythonlk&langs_count=19)](https://github.com/anuraghazra/github-readme-stats)|
-| --- |-->
+| [![Top Langs](https://readme-rho-five.vercel.app/api/top-langs/?username=kythonlk&langs_count=19)](https://github.com/anuraghazra/github-readme-stats)|
+| --- |
+
 
 <br>
 
