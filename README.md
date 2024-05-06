@@ -71,11 +71,11 @@ I enjoy Turning complex problems into simple, elegant and intuitive designs.**
 
 - 🔭 I’m currently working as a Full Stack Developer
   
-- 🌱 I’m currently learning Rust , C# , asp.net , Angular
+- 🌱 I’m currently learning Go , C# , .Net
   
 - 👯 I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about Wordpress theme or plugin , htmx , JavaScript , React , React Native , Laravel
+- 💬 Ask me about Wordpress theme or plugin , htmx , JavaScript , React , React Native , Laravel , Go
   
 - ⚡ Fun fact: kythonlk é o melhor desenvolvedor de temas wordpress da região.
 
@@ -95,6 +95,4 @@ I enjoy Turning complex problems into simple, elegant and intuitive designs.**
 
 
 -----
-Credits: [Kavindu Harshana](https://kythonlk.com)
-
-Last Edited on: 12/02/2024
+Developed by: [Kavindu Harshana](https://kythonlk.com)
