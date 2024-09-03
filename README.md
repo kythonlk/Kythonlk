@@ -1,6 +1,6 @@
 ### **Hi! My name is Kavindu Harshana. I'm a Full-Stack Software Developer ...**
 
-**Don'tovercomplicate thing mate.** 
+**Don't overcomplicate thing mate.** 
 
 ![views](https://komarev.com/ghpvc/?username=kythonlk)
 [![Github](https://img.shields.io/github/followers/Kythonlk?label=Follow&style=social)](https://github.com/Kythonlk)
